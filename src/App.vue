@@ -2,13 +2,6 @@
     <div class="wrapper">
         <div class="page-header">
             <div class="page-header__container">
-                <picture class="page-header__logo">
-                    <img 
-                        src="./assets/logo.png" 
-                        alt="Логотип"  
-                        class="page-header__logo-img"
-                    />
-                </picture>
                 <div class="page-header__nav">
                     <router-link class="page-header__nav-item" to="/">Форма</router-link>
                     <router-link class="page-header__nav-item" to="/preview">Превью</router-link>
